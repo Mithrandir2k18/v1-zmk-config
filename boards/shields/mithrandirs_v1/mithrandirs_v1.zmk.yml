@@ -1,0 +1,11 @@
+file_format: "1"
+id: mithrandirs_v1
+name: Mithrandirs V1
+type: shield
+url: https://github.com/Mithrandir2k18/v1-zmk-config
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - mithrandirs_v1_left
+  - mithrandirs_v1_right
